@@ -1,0 +1,4 @@
+{
+  "timer": 90,
+  "challenges": "challenge1,challenge2,challenge3,challenge4"
+}

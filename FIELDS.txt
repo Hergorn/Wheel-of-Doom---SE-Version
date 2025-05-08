@@ -1,0 +1,12 @@
+{
+  "timer": {
+    "type": "number",
+    "label": "timer in ms",
+    "value": 15
+  },
+  "challenges": {
+    "type": "text",
+    "label": "challenges divided by ,",
+    "value": "challenge1,challenge2,challenge3.challenge4"
+  }
+}
